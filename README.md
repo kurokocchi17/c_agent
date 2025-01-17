@@ -1,6 +1,6 @@
 # C Agent 🤖
 
-![C Agent Logo](docs/assets/project.jpg)
+![C Agent Logo](docs/assets/C.png)
 
 A C implementation of an AI agent framework, inspired by the classic Eliza project. C Agent provides a lightweight and efficient foundation for building AI agents with modern capabilities.
 

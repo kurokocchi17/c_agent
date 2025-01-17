@@ -4,7 +4,7 @@
 
 A C implementation of an AI agent framework, inspired by the classic Eliza project. C Agent provides a lightweight and efficient foundation for building AI agents with modern capabilities.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Kurokocchi_dev?style=social)](https://twitter.com/Kurokocchi_dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Kurokocchi_dev?style=social)](https://twitter.com/Kurokocchidev)
 
 ## Features
 
